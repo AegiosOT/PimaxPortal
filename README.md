@@ -2,6 +2,9 @@
 
 A TUI tool that fixes broken GPU drivers on the **Pimax Portal Retro** handheld.
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/fWEADz2sD)
+
+
 ![Demo](assets/portal.gif)
 
 ## Why
