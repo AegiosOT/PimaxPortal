@@ -17,7 +17,7 @@ This tool replaces the stock drivers with newer Adreno 650 drivers (V@0764.0, Ja
 
 ## Quick Start
 
-1. Download the latest binary for your platform from [Releases](https://github.com/UltimG/PimaxPortal/releases)
+1. Download the latest binary for your platform from [Releases](https://github.com/AegiosOT/PimaxPortal/releases)
 2. Install ADB and 7z on your computer ([setup guide](assets/DEPENDENCIES.md))
 3. Connect your Pimax Portal Retro via USB
 4. Run the tool from the directory where you downloaded it and press **Enter**
