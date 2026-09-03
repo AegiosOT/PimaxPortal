@@ -57,7 +57,7 @@ All steps run in sequence with progress displayed in the terminal. If no device 
 ## Install via Homebrew
 
 ```
-brew tap UltimG/pimaxportal && brew install pimaxportal
+brew tap AegiosOT/pimaxportal && brew install pimaxportal
 ```
 
 ## Building from Source
